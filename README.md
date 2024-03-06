@@ -2,8 +2,8 @@
 
 Welcome to the Travel App! This is a simple web application that allows users to plan their trips by checking the weather forecast and images of their destination.
 
-![img]('./img/appForm.png')
-![img]('./img/appTrip.png')
+![img1](https://github.com/thaisaraujom/project-travel-app/blob/main/img/appForm.png)
+![img2](https://github.com/thaisaraujom/project-travel-app/blob/main/img/appTrips.png)
 
 ## How to Run ⚙️
 
