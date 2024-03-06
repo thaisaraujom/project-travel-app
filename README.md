@@ -1,8 +1,9 @@
-# Weather Journal App ☀️🌧️
+# Travel App 🌍
 
 Welcome to the Travel App! This is a simple web application that allows users to plan their trips by checking the weather forecast and images of their destination.
 
-[video](./video/travel.mp4)
+![img]('./img/appForm.png')
+![img]('./img/appTrip.png')
 
 ## How to Run ⚙️
 
